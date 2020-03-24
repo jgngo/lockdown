@@ -5,7 +5,8 @@ Got this from a Viber group. Help me find the author of this.
 #LockdownSuppliesMM
 Hi, FB friends! I compiled (and verified) a 𝙡𝙞𝙨𝙩 𝙤𝙛 𝙜𝙧𝙤𝙘𝙚𝙧𝙞𝙚𝙨 𝙖𝙣𝙙 𝙙𝙧𝙪𝙜𝙨𝙩𝙤𝙧𝙚𝙨 that offer online ordering and deliveries within Metro Manila for my immunocompromised and single parent friends who cannot go out for supplies. I thought I'd share it in case it helps you too. I did not include drinking water and LPG suppliers as those are easier to find in your own neighbourhood. Please note that some groceries are running out of fresh stock as I type this but they will resume taking orders as soon as they fulfill the current orders.
 
-## 𝙑𝙚𝙜𝙖𝙣 𝙎𝙪𝙥𝙥𝙡𝙞𝙚𝙧𝙨:
+### Vegan Suppliers
+
 | Name | URL | Description |
 | ---- | --- | ----------- |
 | THE VEGAN GROCER:| https://www.facebook.com/thevegangrocerph/| | grocery goods and RTE (ready-to-eat) meals|
@@ -15,7 +16,8 @@ Hi, FB friends! I compiled (and verified) a 𝙡𝙞𝙨𝙩 𝙤𝙛 𝙜𝙧�
 | PLANTLAB:| https://www.facebook.com/plantlabmanila/ |- bottled RTE meals, rice, sugar, salt|
 | VEGAN OPTIONS:| https://www.facebook.com/vegan.options108/ |- frozen veg meats and RTE meals|
 
-## 𝙑𝙚𝙜𝙚𝙩𝙖𝙗𝙡𝙚𝙨:
+### Vegetables
+
 | Name | URL | Description |
 | ---- | --- | ----------- |
 | GOOD FOOD COMMUNITY | https://goodfoodcommunity.com | veg bundles (ON HOLD), rice, beans, turmeric powder |
@@ -33,7 +35,8 @@ Hi, FB friends! I compiled (and verified) a 𝙡𝙞𝙨𝙩 𝙤𝙛 𝙜𝙧�
 | UPROOT PH | https://www.uproot.ph/shop | veggies, veg sets, fruits, rice *not vegan, sells dried fish |
 | FUTURE FRESH PH | https://futurefresh.ph/collections/fresh-produce | greens only (hydroponics) |
 
-## 𝙁𝙧𝙪𝙞𝙩𝙨:
+### Fruits
+
 | Name | URL | Description |
 | ---- | --- | ----------- |
 | BAYTOWN'S PRODUCE | https://www.facebook.com/baytownsproduce/ | |
@@ -43,7 +46,8 @@ Hi, FB friends! I compiled (and verified) a 𝙡𝙞𝙨𝙩 𝙤𝙛 𝙜𝙧�
 | CRATE2PLATE | http://www.crate2plate.com/ | imported/"premium" fruits, bundles (sold out), and veggies (sold out), minimum P1500 *not vegan, sells yogurt (minimum P1500) |
 | FRUITY FINDS PH | https://www.facebook.com/fruityfindsph/ *not vegan, sells fish |
 
-## 𝙈𝙚𝙙𝙞𝙘𝙖𝙡 𝙎𝙪𝙥𝙥𝙡𝙮:
+### Medical Supply
+
 | Name | URL | Description |
 | ---- | --- | ----------- |
 | MERCURY DRUG | https://www.mercurydrug.com/gamot-padala.html | https://www.mercurydrug.com/terms-and-conditions.html |
@@ -51,13 +55,15 @@ Hi, FB friends! I compiled (and verified) a 𝙡𝙞𝙨𝙩 𝙤𝙛 𝙜𝙧�
 | ROSE PHARMACY | https://www.rosepharmacy.com/ | (orders outside Metro Cebu might take at least 2 weeks) |
 | WATSONS ONLINE PHARMACY | https://www.watsons.com.ph/call-and-delivery-info | (MM only minimum P500 with P50 delivery fee) |
 
-## 𝙎𝙪𝙥𝙚𝙧𝙛𝙤𝙤𝙙𝙨:
+### Superfoods
+
 | Name | URL | Description |
 | ---- | --- | ----------- |
 | THE SUPERFOOD GROCER | https://www.thesuperfoodgrocer.com/collections/healthy-superfoods-philippines | |
 | THE HEALTHY GROCERY | https://thehealthygrocery.com/store/ | *not vegan, sells whey & bee pollen |
 
-## 𝙊𝙩𝙝𝙚𝙧𝙨:
+### Others
+
 | Name | URL | Description |
 | ---- | --- | ----------- |
 | METROMART | https://www.metromart.com/ | Edgy Veggy Commissary (vegan), Hummus Elijah (vegan-friendly), Robinsons Supermarket, S&R, ShopWise, Generika Drug Store, GNC, Pan de Manila, Pet Express, Watsons, Family Mart, etc. |
@@ -67,6 +73,6 @@ Hi, FB friends! I compiled (and verified) a 𝙡𝙞𝙨𝙩 𝙤𝙛 𝙜𝙧�
 | PUSHKART PH | https://pushkart.ph | |
 | GERALD PH | https://gerald.ph | gourmet grocer |
 
-\*Why do I note the suppliers that aren't vegan? Because this is where many viruses originate | bit.ly/VirusOrigin. And we're not the only ones bit.ly/OnLockdown.
+* Why do I note the suppliers that aren't vegan? Because this is where many viruses originate | bit.ly/VirusOrigin. And we're not the only ones bit.ly/OnLockdown.
 
 #LockdownDiaries #covid19Ph #Bayanihan #BangonPilipinas #ConsciousCompassionateChoice
