@@ -44,7 +44,7 @@ Hi, FB friends! I compiled (and verified) a 𝙡𝙞𝙨𝙩 𝙤𝙛 𝙜𝙧�
 | FRUIT BASKET EXPRESS | https://www.facebook.com/fruitbasketexpress/ | imported/"premium" fruits |
 | ALWAYS FRESH PH | https://www.facebook.com/alwaysfreshph/ | imported/"premium" fruits |
 | CRATE2PLATE | http://www.crate2plate.com/ | imported/"premium" fruits, bundles (sold out), and veggies (sold out), minimum P1500 *not vegan, sells yogurt (minimum P1500) |
-| FRUITY FINDS PH | https://www.facebook.com/fruityfindsph/ *not vegan, sells fish |
+| FRUITY FINDS PH | https://www.facebook.com/fruityfindsph/ | * not vegan, sells fish |
 
 ### Medical Supply
 
